@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there👋 I’m Wenda Shi, an MEng student in Fashion Design and Engineering student at [College of Fashion and Design](https://english.dhu.edu.cn/FashionandDesign/list.htm) in [DHU](https://english.dhu.edu.cn/), under the supervision of [Prof. Jingsong Du](https://fzys.dhu.edu.cn/2016/1226/c9846a173524/page.htm). Luckily, I also work as a research assistant at Zhejiang University-Bosideng Intelligent Design Joint Research Center in [ZJU](https://www.zju.edu.cn/), under the supervision of [Prof. Xiangdong Li](http://zju-capg.org/prof_li.htm). Before, I obtained my BEng degree at the [School of Artificial Intelligence](https://sai.sut.edu.cn/#) in [SUT]([https://english-iec.sut.edu.cn/](https://english.sut.edu.cn/)), under the supervision of [Prof. Jun Zhang](https://sai.sut.edu.cn/info/1061/1675.htm).
+Hi there👋 I’m Wenda Shi, an MEng student in Fashion Design and Engineering at [College of Fashion and Design](https://english.dhu.edu.cn/FashionandDesign/list.htm) in [DHU](https://english.dhu.edu.cn/), under the supervision of [Prof. Jingsong Du](https://fzys.dhu.edu.cn/2016/1226/c9846a173524/page.htm). Luckily, I also work as a research assistant at Zhejiang University-Bosideng Intelligent Design Joint Research Center in [ZJU](https://www.zju.edu.cn/), under the supervision of [Prof. Xiangdong Li](http://zju-capg.org/prof_li.htm). Before, I obtained my BEng degree at the [School of Artificial Intelligence](https://sai.sut.edu.cn/#) in [SUT]([https://english-iec.sut.edu.cn/](https://english.sut.edu.cn/)), under the supervision of [Prof. Jun Zhang](https://sai.sut.edu.cn/info/1061/1675.htm).
 
-My research interests include Fashion AI, including multi-modal learning, and generative AI.
+My research interests focus on fashion AI, including multi-modal learning, and generative AI.
 
 # 📝 Publications 
 
