@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m an MEng in Fashion Design and Engineering student at [College of Fashion and Design](https://english.dhu.edu.cn/FashionandDesign/list.htm) in [DHU](https://english.dhu.edu.cn/), under the supervision of [Prof. Jingsong Du](https://fzys.dhu.edu.cn/2016/1226/c9846a173524/page.htm). Before, I obtained my BEng degree at the [School of Artificial Intelligence](https://sai.sut.edu.cn/#) in [SUT]([https://english-iec.sut.edu.cn/](https://english.sut.edu.cn/)).
+I’m an MEng in Fashion Design and Engineering student at [College of Fashion and Design](https://english.dhu.edu.cn/FashionandDesign/list.htm) in [DHU](https://english.dhu.edu.cn/), under the supervision of [Prof. Jingsong Du](https://fzys.dhu.edu.cn/2016/1226/c9846a173524/page.htm). Luckily, I also work as a research assistant at Zhejiang University-Bosideng Intelligent Design Joint Research Center, under the supervision of [Prof. Xiangdong Li](http://zju-capg.org/prof_li.htm). Before, I obtained my BEng degree at the [School of Artificial Intelligence](https://sai.sut.edu.cn/#) in [SUT]([https://english-iec.sut.edu.cn/](https://english.sut.edu.cn/)), under the supervision of [Prof. Jun Zhang](https://sai.sut.edu.cn/info/1061/1675.htm).
 
 My research interests include Fashion AI, Deep Learning, and Generative AI. 
 
@@ -38,7 +38,7 @@ My research interests include Fashion AI, Deep Learning, and Generative AI.
 
 # 💬 Invited Talks
 - *2022.06*, Fashion Transformation in Metaverse: Blockchain, NFT, Web 3.0 at [DigitalFUTURES](https://mp.weixin.qq.com/s/33BT_eEYA6yW73cOQr7DuA).
-- *2021.09*, Fashion-AI at [CIDIH](https://www.cidih.tsinghua.edu.cn/) Youth Academic Salon.\| [\[video\]](https://www.bilibili.com/video/BV14P4y1Y7Ff/?spm_id_from=333.999.0.0&vd_source=32f6f61e74ca115cbaca6bd6bb144662)
+- *2021.09*, Fashion-AI of Youth Academic Salon at [CIDIH](https://www.cidih.tsinghua.edu.cn/).\| [\[video\]](https://www.bilibili.com/video/BV14P4y1Y7Ff/?spm_id_from=333.999.0.0&vd_source=32f6f61e74ca115cbaca6bd6bb144662)
 
 # 💻 Internships
 - *2022.11 - present*, Research Assistant at Zhejiang University-Bosideng Intelligent Design Joint Research Center, Hangzhou China.
