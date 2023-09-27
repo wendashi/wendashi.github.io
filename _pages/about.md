@@ -44,7 +44,7 @@ My research interests focus on fashion AI, including multi-modal learning, and g
 
 # 💻 Internships
 - *2022.11 - present*, Research Assistant at Zhejiang University-Bosideng Intelligent Design Joint Research Center, Hangzhou China.
-- *2022.04 - 2023.04*, Ecosystem Manager at an Web3 startup company [AnyWeb](https://anyweb.cc/), Shanghai China.
+- *2022.04 - 2023.04*, Ecosystem Manager at a Web3 startup (First NFT Wallet in China mainland) [AnyWeb](https://anyweb.cc/), Shanghai China.
 - *2022.02 - 2022.08*, FashionTech Researcher at an international media [WWD China](http://wwdgreaterchina.com/), Shanghai China.
 
 # 🧐 Academic Experience
