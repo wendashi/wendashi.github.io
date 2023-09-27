@@ -30,7 +30,7 @@ My research interests focus on fashion AI, including multi-modal learning, and g
 
 # 🎖 Honors and Awards
 - *2021.11* First Class Scholarship (Postgraduate)
-- *2020.11* 🥇**National Scholarship (Top 1%)**
+- *2020.11* **National Scholarship (Top 1%)🥇**
 - *2019.11* First Class Scholarship
 - *2018.11* First Class Scholarship 
 
