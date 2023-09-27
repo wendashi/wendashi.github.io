@@ -26,7 +26,7 @@ My research interests include Fashion AI, Multi-modal learning, and Generative A
 - `Summited to ACM CHI 2024 (CCF A)` Patternista: An Intelligent Design Assistant based on Language Agents - Case Study of Pattern Design, Dengming Zhang<sup>†</sup>, Wenda Shi<sup>†</sup>, Yufan Xi, Heyang Yi, Weitao You, Nan Li, Li Zhang, Xin Yao, Xiangdong Li, Lingyun Sun<sup>*</sup> (<sup>†</sup> equal contribution)
 - `Accepted by Journal of Donghua University (English Edition) (= CCF B)` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network, Wenda Shi, Jingsong Du<sup>*</sup>, Dichucheng Li
 
-> The ratings CCF A/B/C are assessments provided by [CCF](https://www.ccf.org.cn/en/) for various journal or conferences.
+> The CCF A/B/C rating is an assessment issued by [CCF](https://www.ccf.org.cn/en/), a recognized authority in the field of AI, for a range of journal conferences.
 
 # 🎖 Honors and Awards
 - *2021.11* First Class Scholarship (Postgraduate)
