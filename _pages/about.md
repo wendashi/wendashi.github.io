@@ -50,7 +50,7 @@ My research interests include Fashion AI, Multi-modal learning, and Generative A
 # 🧐 Academic Experience
 - *2021.05*, Member of China Computer Federation Computational Art (CCF CA)
 
-# 👌 Skills List
+# 💪 Skills List
 - **Programming languages:** Python/ Matlab/ SQL
 - **Languages:** Chinese (Native) / English
 - **Certifications:** Database Technology (NCRE Level 3); Database Engineer (NCRE Level 4)
