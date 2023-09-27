@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m an MEng in Fashion Design and Engineering student at [DHU](https://english.dhu.edu.cn/), [CFD](https://english.dhu.edu.cn/FashionandDesign/list.htm), under the supervision of [Prof. Jingsong Du](https://fzys.dhu.edu.cn/2016/1226/c9846a173524/page.htm).
+I’m an MEng in Fashion Design and Engineering student at [College of Fashion and Design](https://english.dhu.edu.cn/FashionandDesign/list.htm) in [DHU](https://english.dhu.edu.cn/), under the supervision of [Prof. Jingsong Du](https://fzys.dhu.edu.cn/2016/1226/c9846a173524/page.htm). Before, I obtained my BEng degree at the [School of Artificial Intelligence](https://sai.sut.edu.cn/#) in [SUT]([https://english-iec.sut.edu.cn/](https://english.sut.edu.cn/)).
 
 My research interests include Fashion AI, Deep Learning, and Generative AI. 
 
 # 📝 Publications 
 
-- `Summited to ACM CHI 2024 (CCF A)` [Patternista: An Intelligent Design Assistant based on Language Agents - Case Study of Pattern Design], Dengming Zhang*, Wenda Shi*, Yufan Xi, Heyang Yi, Weitao You, Nan Li, Li Zhang, Xin Yao, Xiangdong Li, Lingyun Sun (*equal contribution)
-- `Accepted by Journal of Donghua University (English Edition) (= CCF B)` [Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network], Wenda Shi, Jingsong Du, Dichucheng Li
+- `Summited to ACM CHI 2024 (CCF A)` Patternista: An Intelligent Design Assistant based on Language Agents - Case Study of Pattern Design, Dengming Zhang<sup>†</sup>, Wenda Shi<sup>†</sup>, Yufan Xi, Heyang Yi, Weitao You, Nan Li, Li Zhang, Xin Yao, Xiangdong Li, Lingyun Sun<sup>*</sup> (<sup>†</sup> equal contribution)
+- `Accepted by Journal of Donghua University (English Edition) (= CCF B)` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network, Wenda Shi, Jingsong Du<sup>*</sup>, Dichucheng Li
 
 # 🎖 Honors and Awards
-- *2021.11* First Class Scholarship (postgraduate)
+- *2021.11* First Class Scholarship (Postgraduate)
 - *2020.11* National Scholarship (Top 1%)
 - *2019.11* First Class Scholarship
 - *2018.11* First Class Scholarship 
@@ -37,12 +37,12 @@ My research interests include Fashion AI, Deep Learning, and Generative AI.
 - *2017.09 - 2021.06*, BEng in Intelligent Science and Technology at School of Artificial Intelligence, Shenyang University of Technology
 
 # 💬 Invited Talks
-- *2022.06*, Fashion Transformation in Metaverse: Blockchain, NFT, Web 3.0 at [DigitalFUTURES](https://mp.weixin.qq.com/s/33BT_eEYA6yW73cOQr7DuA)
+- *2022.06*, Fashion Transformation in Metaverse: Blockchain, NFT, Web 3.0 at [DigitalFUTURES](https://mp.weixin.qq.com/s/33BT_eEYA6yW73cOQr7DuA).
 - *2021.09*, Fashion-AI at [CIDIH](https://www.cidih.tsinghua.edu.cn/) Youth Academic Salon.\| [\[video\]](https://www.bilibili.com/video/BV14P4y1Y7Ff/?spm_id_from=333.999.0.0&vd_source=32f6f61e74ca115cbaca6bd6bb144662)
 
 # 💻 Internships
-- *2022.11 - present*, Research Assistant at Zhejiang University-Bosideng Intelligent Design Joint Research Center.
-- *2022.04 - 2023.04*, Ecosystem Manager at [AnyWeb](https://anyweb.cc/) 
+- *2022.11 - present*, Research Assistant at Zhejiang University-Bosideng Intelligent Design Joint Research Center, Hangzhou China.
+- *2022.04 - 2023.04*, Ecosystem Manager at [AnyWeb](https://anyweb.cc/), Shanghai China.
 - *2022.02 - 2022.08*, FashionTech Researcher at [WWDCN](http://wwdgreaterchina.com/), Shanghai China.
 
 # 🎩 Academic Experience
@@ -50,6 +50,6 @@ My research interests include Fashion AI, Deep Learning, and Generative AI.
 - *2021.05*, Member of China Computer Federation Computational Art (CCF CA)
 
 # 👌 Skills List
-- **Programming languages:** Python/ Matlab/ Sql
-- **Languages:** Chinese (Native proficiency) / English
-- **Certifications:** Database Technology ( NCRE Level 3 ); Database Engineer ( NCRE Level 4 )
+- **Programming languages:** Python/ Matlab/ SQL
+- **Languages:** Chinese (Native) / English
+- **Certifications:** Database Technology (NCRE Level 3); Database Engineer (NCRE Level 4)
