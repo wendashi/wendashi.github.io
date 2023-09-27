@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "WendaShi-HomePage"
-description              : "FashionAI Researcher"
+description              : "Donghua University"
 repository               : "wendashi/wendashi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "WendaShi(石闻达)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "FashionAI Researcher"
+  bio              : "MEng student at DHU, Fashion Design and Engineering. Focusing on fashion AI, such as multi-modal learning, image generation."
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
