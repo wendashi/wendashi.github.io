@@ -46,7 +46,7 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 
 # 💻 Internships
 - *2022.11 - present*, Research Assistant at ZJU-BOSIDENG Joint Research Center on AI Design, Hangzhou China.
-- *2022.04 - 2023.04*, Ecosystem Manager at a Web3.0 startup (First NFT Wallet in China mainland) [AnyWeb](https://anyweb.cc/), Shanghai China.
+- *2022.04 - 2023.04*, Ecosystem Manager at a Web3.0 startup [AnyWeb](https://anyweb.cc/)(First NFT Wallet in China mainland), Shanghai China.
 - *2022.02 - 2022.08*, FashionTech Researcher at an international media [WWD China](http://wwdgreaterchina.com/), Shanghai China.
 
 # 🧐 Academic Experience
