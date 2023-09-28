@@ -39,12 +39,12 @@ My research interests focus on fashion AI, including multi-modal learning, and g
 - *2017.09 - 2021.06*, BEng in Intelligent Science and Technology at School of Artificial Intelligence, Shenyang University of Technology
 
 # 💬 Invited Talks
-- *2022.06*, Fashion Transformation in Metaverse: Blockchain, NFT, Web 3.0 at [DigitalFUTURES](https://mp.weixin.qq.com/s/33BT_eEYA6yW73cOQr7DuA).
+- *2022.06*, Fashion Transformation in Metaverse: Blockchain, NFT, Web3.0 at [DigitalFUTURES](https://mp.weixin.qq.com/s/33BT_eEYA6yW73cOQr7DuA).
 - *2021.09*, Fashion-AI of Youth Academic Salon at [CIDIH](https://www.cidih.tsinghua.edu.cn/).\| [\[video\]](https://www.bilibili.com/video/BV14P4y1Y7Ff/?spm_id_from=333.999.0.0&vd_source=32f6f61e74ca115cbaca6bd6bb144662)
 
 # 💻 Internships
 - *2022.11 - present*, Research Assistant at Zhejiang University-Bosideng Intelligent Design Joint Research Center, Hangzhou China.
-- *2022.04 - 2023.04*, Ecosystem Manager at a Web3 startup (First NFT Wallet in China mainland) [AnyWeb](https://anyweb.cc/), Shanghai China.
+- *2022.04 - 2023.04*, Ecosystem Manager at a Web3.0 startup (First NFT Wallet in China mainland) [AnyWeb](https://anyweb.cc/), Shanghai China.
 - *2022.02 - 2022.08*, FashionTech Researcher at an international media [WWD China](http://wwdgreaterchina.com/), Shanghai China.
 
 # 🧐 Academic Experience
