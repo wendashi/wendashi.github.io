@@ -23,8 +23,8 @@ My research interests focus on fashion AI, including multi-modal learning, and g
 
 # 📝 Publications 
 
-- `Summited to ACM CHI 2024 (CCF A)` Patternista: An Intelligent Design Assistant based on Language Agents - Case Study of Pattern Design, Dengming Zhang<sup>†</sup>, Wenda Shi<sup>†</sup>, Yufan Xi, Heyang Yi, Weitao You, Nan Li, Li Zhang, Xin Yao, Xiangdong Li, Lingyun Sun<sup>*</sup> (<sup>†</sup> equal contribution)
-- `Accepted by Journal of Donghua University (English Edition) (= CCF B)` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network, Wenda Shi, Jingsong Du<sup>*</sup>, Dichucheng Li
+- `Summited to ACM CHI 2024 (CCF A)` Patternista: An Intelligent Design Assistant based on Language Agents - Case Study of Pattern Design, [Dengming Zhang](https://github.com/Littleor?org=IdeaLightLabs&year_list=1)<sup>†</sup>, Wenda Shi<sup>†</sup>, Yufan Xi, Heyang Yi, Weitao You, Nan Li, Li Zhang, Xin Yao, Xiangdong Li, Lingyun Sun<sup>*</sup> (<sup>†</sup> equal contribution)
+- `Accepted by Journal of Donghua University (English Edition) (= CCF B)` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network, Wenda Shi, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
 
 > The CCF A/B/C rating is an assessment issued by [CCF](https://www.ccf.org.cn/en/), a recognized authority in the field of AI, for various journals or conferences.
 
