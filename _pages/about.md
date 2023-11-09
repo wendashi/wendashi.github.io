@@ -45,7 +45,8 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 - *2021.09*, Fashion-AI of Youth Academic Salon at [CIDIH](https://www.cidih.tsinghua.edu.cn/).\| [\[video\]](https://www.bilibili.com/video/BV14P4y1Y7Ff/?spm_id_from=333.999.0.0&vd_source=32f6f61e74ca115cbaca6bd6bb144662)
 
 # 💻 Internships
-- *2022.11 - present*, Research Assistant at ZJU-BOSIDENG Joint Research Center on AI Design, Hangzhou China.
+- *2023.12 - 2024.12*, Research Assistant at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/), Hongkong SAR China.
+- *2022.11 - 2023.11*, Research Assistant at ZJU-BOSIDENG Joint Research Center on AI Design, Hangzhou China.
 - *2022.04 - 2023.04*, Ecosystem Manager at a Web3.0 startup [AnyWeb](https://anyweb.cc/)(First NFT Wallet in China mainland), Shanghai China.
 - *2022.02 - 2022.08*, FashionTech Researcher at an international media [WWD China](http://wwdgreaterchina.com/), Shanghai China.
 
