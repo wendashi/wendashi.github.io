@@ -52,7 +52,7 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 - *2021.05*, Member of China Computer Federation Computational Art (CCF CA)
 
 # 💪 Skills List
-- **Programming languages:** Python/ Matlab/ SQL
+- **Programming languages:** Python/ PyTorch / ONNX / TensorRT
 - **Languages:** Chinese (Native) / English (TOEFL-90)
 - **Certifications:** Database Technology (NCRE Level 3); Database Engineer (NCRE Level 4)
 
