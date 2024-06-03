@@ -56,5 +56,5 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 - **Languages:** Chinese (Native) / English (TOEFL)
 - **Certifications:** Database Technology (NCRE Level 3); Database Engineer (NCRE Level 4)
 
-# 🖊️ Blogs
-- **Chinese Blogs:** [CSDN](https://blog.csdn.net/weixin_44212848?spm=1011.2124.3001.5343)
+# 🖊️ Technical Blog
+- **Chinese Blog:** [CSDN](https://blog.csdn.net/weixin_44212848?spm=1011.2124.3001.5343)
