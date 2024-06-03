@@ -53,7 +53,7 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 
 # 💪 Skills List
 - **Programming languages:** Python/ Matlab/ SQL
-- **Languages:** Chinese (Native) / English (TOEFL)
+- **Languages:** Chinese (Native) / English (TOEFL-90)
 - **Certifications:** Database Technology (NCRE Level 3); Database Engineer (NCRE Level 4)
 
 # 🖊️ Technical Blog
