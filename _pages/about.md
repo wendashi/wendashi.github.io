@@ -25,10 +25,8 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 
 # 📝 Publications 
 
-- `Summited to ACM CHI 2024 (CCF A)` Patternista: An Intelligent Design Assistant based on Language Agents - Case Study of Pattern Design, [Dengming Zhang](https://github.com/Littleor?org=IdeaLightLabs&year_list=1)<sup>†</sup>, **Wenda Shi<sup>†</sup>**, Yufan Xi, Heyang Yi, Weitao You, Nan Li, Li Zhang, Xin Yao, Xiangdong Li, Lingyun Sun<sup>*</sup> (<sup>†</sup> equal contribution)
-- `Accepted by Journal of Donghua University (English Edition) (= CCF B)` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network, **Wenda Shi**, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
+- `Accepted by Journal of Donghua University (English Edition) ` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network, **Wenda Shi**, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
 
-> The CCF A/B/C rating is an assessment issued by [CCF](https://www.ccf.org.cn/en/), a recognized authority in the field of AI, for various journals or conferences.
 
 # 🎖 Honors and Awards
 - *2021.11* First Class Scholarship (Postgraduate)
