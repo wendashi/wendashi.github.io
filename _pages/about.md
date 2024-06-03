@@ -25,7 +25,7 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 
 # 📝 Publications 
 
-- `Accepted by Journal of Donghua University (English Edition) ` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network, **Wenda Shi**, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
+- `Journal of Donghua University (English Edition) ` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network, **Wenda Shi**, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
 
 
 # 🎖 Honors and Awards
