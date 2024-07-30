@@ -25,7 +25,7 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 
 # 📝 Publications 
 
-- `Journal of Donghua University (English Edition) ` Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network, **Wenda Shi**, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
+- `Journal of Donghua University (English Edition) ` [Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A25361158/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A176065504&crl=c), **Wenda Shi**, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
 
 
 # 🎖 Honors and Awards
@@ -35,7 +35,7 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 - *2018.11* First Class Scholarship 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, MEng in Fashion Design and Engineering at College of Fashion and Design, Donghua University
+- *2021.09 - 2024.06*, MEng in Fashion Design and Engineering at College of Fashion and Design, Donghua University
 - *2017.09 - 2021.06*, BEng in Intelligent Science and Technology at School of Artificial Intelligence, Shenyang University of Technology
 
 # 💬 Invited Talks
@@ -52,7 +52,7 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 - *2021.05*, Member of China Computer Federation Computational Art (CCF CA)
 
 # 💪 Skills List
-- **Programming languages:** Python/ PyTorch / ONNX / TensorRT / Docker
+- **Programming language and tools:** Python/ PyTorch / Diffusers / ONNX / TensorRT / Docker
 - **Languages:** Chinese (Native) / English (TOEFL-90)
 - **Certifications:** Database Technology (NCRE Level 3); Database Engineer (NCRE Level 4)
 
