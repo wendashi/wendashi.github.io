@@ -33,7 +33,7 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 # 💻 Internships
 - *2023.12 - 2025.04 (now)*, Research Assistant at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/), Hongkong SAR China.
 - *2022.11 - 2023.11*, Research Assistant at ZJU-BOSIDENG Joint Research Center on AI Design, Hangzhou China.
-- *2022.04 - 2023.04*, Ecosystem Manager at a Web3.0 startup [AnyWeb](https://anyweb.cc/)(First NFT Wallet in China mainland), Shanghai China.
+- *2022.04 - 2023.04*, Ecosystem Manager at a Web3.0 startup [AnyWeb](https://anyweb.cc/)([First NFT Wallet in China mainland](https://mp.weixin.qq.com/s/EqcNxCkMEwkbWl8LJMqRuw)), Shanghai China.
 - *2022.02 - 2022.08*, FashionTech Researcher at an international media [WWD China](http://wwdgreaterchina.com/), Shanghai China.
 
 # 📖 Educations
