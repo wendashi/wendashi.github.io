@@ -44,9 +44,6 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 - *2022.06*, Fashion Transformation in Metaverse: Blockchain, NFT, Web3.0 at [DigitalFUTURES](https://mp.weixin.qq.com/s/33BT_eEYA6yW73cOQr7DuA).
 - *2021.09*, Fashion-AI of Youth Academic Salon at [CIDIH](https://www.cidih.tsinghua.edu.cn/).\| [\[video\]](https://www.bilibili.com/video/BV14P4y1Y7Ff/?spm_id_from=333.999.0.0&vd_source=32f6f61e74ca115cbaca6bd6bb144662)
 
-# 🧐 Academic Experience
-- *2021.05*, Member of China Computer Federation Computational Art (CCF CA)
-
 # 🖊️ Technical Blog
 - **Chinese Blog:** [CSDN](https://blog.csdn.net/weixin_44212848?spm=1011.2124.3001.5343)
 
@@ -60,3 +57,6 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 - *2020.11* **National Scholarship (Top 1%)🥇**
 - *2019.11* First Class Scholarship
 - *2018.11* First Class Scholarship
+
+# 🧐 Academic Experience
+- *2021.05*, Member of China Computer Federation Computational Art (CCF CA)
