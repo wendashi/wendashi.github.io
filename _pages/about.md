@@ -30,12 +30,11 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 - `Under Review ` Aligning AI Capabilities with Pattern Design: An Intelligent Design Assistant based on Language Agents, Dengming Zhang<sup>☨</sup> ,Wenda Shi<sup>☨</sup> ,Yufan Xi ,Heyang Yi, Weitao You<sup>*</sup> ,Nan Li ,Li Zhang ,Xin Yao ,Xiangdong Li, Lingyun Sun (☨Both authors contributed equally to this research.)
 - `Journal of Donghua University (English Edition) ` [Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A25361158/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A176065504&crl=c), Wenda Shi, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
 
-
-# 🎖 Honors and Awards
-- *2021.11* First Class Scholarship (Postgraduate)
-- *2020.11* **National Scholarship (Top 1%)🥇**
-- *2019.11* First Class Scholarship
-- *2018.11* First Class Scholarship 
+# 💻 Internships
+- *2023.12 - 2024.12 (now)*, Research Assistant at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/), Hongkong SAR China.
+- *2022.11 - 2023.11*, Research Assistant at ZJU-BOSIDENG Joint Research Center on AI Design, Hangzhou China.
+- *2022.04 - 2023.04*, Ecosystem Manager at a Web3.0 startup [AnyWeb](https://anyweb.cc/)(First NFT Wallet in China mainland), Shanghai China.
+- *2022.02 - 2022.08*, FashionTech Researcher at an international media [WWD China](http://wwdgreaterchina.com/), Shanghai China.
 
 # 📖 Educations
 - *2021.09 - 2024.06*, MEng in Fashion Design and Engineering at College of Fashion and Design, Donghua University
@@ -45,19 +44,19 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 - *2022.06*, Fashion Transformation in Metaverse: Blockchain, NFT, Web3.0 at [DigitalFUTURES](https://mp.weixin.qq.com/s/33BT_eEYA6yW73cOQr7DuA).
 - *2021.09*, Fashion-AI of Youth Academic Salon at [CIDIH](https://www.cidih.tsinghua.edu.cn/).\| [\[video\]](https://www.bilibili.com/video/BV14P4y1Y7Ff/?spm_id_from=333.999.0.0&vd_source=32f6f61e74ca115cbaca6bd6bb144662)
 
-# 💻 Internships
-- *2023.12 - 2024.12 (now)*, Research Assistant at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/), Hongkong SAR China.
-- *2022.11 - 2023.11*, Research Assistant at ZJU-BOSIDENG Joint Research Center on AI Design, Hangzhou China.
-- *2022.04 - 2023.04*, Ecosystem Manager at a Web3.0 startup [AnyWeb](https://anyweb.cc/)(First NFT Wallet in China mainland), Shanghai China.
-- *2022.02 - 2022.08*, FashionTech Researcher at an international media [WWD China](http://wwdgreaterchina.com/), Shanghai China.
-
 # 🧐 Academic Experience
 - *2021.05*, Member of China Computer Federation Computational Art (CCF CA)
+
+# 🖊️ Technical Blog
+- **Chinese Blog:** [CSDN](https://blog.csdn.net/weixin_44212848?spm=1011.2124.3001.5343)
 
 # 💪 Skills List
 - **Programming language and tools:** Python/ PyTorch / Diffusers / ONNX / TensorRT / Docker
 - **Languages:** Chinese (Native) / English (TOEFL-90)
 - **Certifications:** Database Technology (NCRE Level 3); Database Engineer (NCRE Level 4)
 
-# 🖊️ Technical Blog
-- **Chinese Blog:** [CSDN](https://blog.csdn.net/weixin_44212848?spm=1011.2124.3001.5343)
+# 🎖 Honors and Awards
+- *2021.11* First Class Scholarship (Postgraduate)
+- *2020.11* **National Scholarship (Top 1%)🥇**
+- *2019.11* First Class Scholarship
+- *2018.11* First Class Scholarship
