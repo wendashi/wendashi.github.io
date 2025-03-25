@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there👋 I’m Wenda Shi, research assistant at [AiDLab](https://www.aidlab.hk/en/) under the supervision of [Prof. Calvin Wong](https://www.aidlab.hk/en/people-detail/prof-calvin-wong) and [Dr. Xingxing Zou](https://scholar.google.com/citations?user=UhnQA3UAAAAJ&hl=zh-CN). Previously, I earned the MEng degree from [College of Fashion and Design](https://english.dhu.edu.cn/FashionandDesign/list.htm) under the supervision of [Prof. Jingsong Du](https://fzys.dhu.edu.cn/2016/1226/c9846a173524/page.htm), and BEng degree from the [School of Artificial Intelligence](https://sai.sut.edu.cn/#) under the supervision of [Prof. Jun Zhang](https://sai.sut.edu.cn/info/1061/1675.htm). Recently, I am fortunate to work closely with [Yiren](https://scholar.google.com/citations?hl=zh-CN&user=L2YS0jgAAAAJ) and [Dr. Liu](https://scholar.google.com/citations?hl=zh-CN&user=SmL7oMQAAAAJ).
+Hi there👋 I’m Wenda Shi, research assistant at [AiDLab (PolyU)](https://www.aidlab.hk/en/) under the supervision of [Prof. Calvin Wong](https://www.aidlab.hk/en/people-detail/prof-calvin-wong) and [Dr. Xingxing Zou](https://scholar.google.com/citations?user=UhnQA3UAAAAJ&hl=zh-CN). Previously, I earned the MEng degree from [College of Fashion and Design (DHU)](https://english.dhu.edu.cn/FashionandDesign/list.htm) under the supervision of [Prof. Jingsong Du](https://fzys.dhu.edu.cn/2016/1226/c9846a173524/page.htm), and BEng degree from the [School of Artificial Intelligence (SUT)](https://sai.sut.edu.cn/#) under the supervision of [Prof. Jun Zhang](https://sai.sut.edu.cn/info/1061/1675.htm). 
 
-My research interests focus on fashion AI, including multimodal learning, and generative AI. 
+Recently, I am fortunate to work closely with [Yiren](https://scholar.google.com/citations?hl=zh-CN&user=L2YS0jgAAAAJ) and [Dr. Liu](https://scholar.google.com/citations?hl=zh-CN&user=SmL7oMQAAAAJ). My research interests focus on GenAI in fashion, including multimodal learning, and PEFT.
 
-Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
+Please feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 
 # 📝 Publications 
 
