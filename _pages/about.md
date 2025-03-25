@@ -31,12 +31,13 @@ Feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 - `Journal of Donghua University (English Edition) ` [Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A25361158/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A176065504&crl=c), Wenda Shi, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
 
 # 💻 Internships
-- *2023.12 - 2025.04 (now)*, Research Assistant at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/), Hongkong SAR China.
+- *2023.12 - 2025.08 (now)*, Research Assistant at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/), Hongkong SAR China.
 - *2022.11 - 2023.11*, Research Assistant at ZJU-BOSIDENG Joint Research Center on AI Design, Hangzhou China.
 - *2022.04 - 2023.04*, Ecosystem Manager at a Web3.0 startup [AnyWeb](https://anyweb.cc/)([First NFT Wallet in China mainland](https://mp.weixin.qq.com/s/EqcNxCkMEwkbWl8LJMqRuw)), Shanghai China.
 - *2022.02 - 2022.08*, FashionTech Researcher at an international media [WWD China](http://wwdgreaterchina.com/), Shanghai China.
 
 # 📖 Educations
+- *2025.09 - present*, PhD in Fashion AI at AiDLab, The Hong Kong Polytechnic University (in coming)
 - *2021.09 - 2024.06*, MEng in Fashion Design and Engineering at College of Fashion and Design, Donghua University
 - *2017.09 - 2021.06*, BEng in Intelligent Science and Technology at School of Artificial Intelligence, Shenyang University of Technology
 
