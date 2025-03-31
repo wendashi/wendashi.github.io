@@ -23,7 +23,7 @@ Recently, I am fortunate to work closely with [Yiren](https://scholar.google.com
 
 Please feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 
-> *"Everything 'creative'is a remix of things that happened in the past,plus epsilon and times the quality of the feedback loop and the number of iterations."*
+> *"Everything 'creative' is a remix of things that happened in the past, plus epsilon and times the quality of the feedback loop and the number of iterations."*
 > — Sam Altman
 
 # 📝 Publications 
