@@ -23,6 +23,9 @@ Recently, I am fortunate to work closely with [Yiren](https://scholar.google.com
 
 Please feel free to poke me if you want to discuss, collaborate, or just say hi. 😊
 
+> *"Technology must serve humanity by making complex things simple. And the bridge between them? That’s where art lives."*
+> — Steve Jobs
+
 # 📝 Publications 
 
 - `Under Review ` [FonTS: Text Rendering with Typography and Style Controls](https://arxiv.org/abs/2412.00136), Wenda Shi, Yiren Song, Dengming Zhang, Jiaming Liu, Xingxing Zou<sup>*</sup>
