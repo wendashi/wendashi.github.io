@@ -74,24 +74,6 @@
           </a>
           <span class="wechat-tooltip">ID: {{ author.wechat }}</span>
         </li>
-        <script>
-          const wechatLink = document.querySelector('.wechat-link');
-          const wechatTooltip = document.querySelector('.wechat-tooltip');
-          let timeoutId;
-      
-          wechatLink.addEventListener('mouseenter', function() {
-            timeoutId = setTimeout(function() {
-              wechatTooltip.style.visibility = 'visible';
-              wechatTooltip.style.opacity = '1';
-            }, 500); // 这里设置悬停等待时间为 500 毫秒，你可以根据需要调整
-          });
-      
-          wechatLink.addEventListener('mouseleave', function() {
-            clearTimeout(timeoutId);
-            wechatTooltip.style.visibility = 'hidden';
-            wechatTooltip.style.opacity = '0';
-          });
-        </script>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
