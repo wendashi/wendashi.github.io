@@ -69,7 +69,7 @@
       {% endif %}
       {% if author.wechat %}
         <li class="wechat-link">
-          <a href="#" data-wechat-id="{{ author.wechat }}">
+          <a href="#" data-wechat-id="{{ author.wechat }}" onclick="event.preventDefault();">
             <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat
           </a>
           <span class="wechat-tooltip">ID: {{ author.wechat }}</span>
