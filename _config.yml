@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "WendaShi-HomePage"
-description              : "HK PolyU-AiDLab"
+description              : # "HK PolyU-AiDLab"
 repository               : "wendashi/wendashi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -38,7 +38,7 @@ author:
   facebook         :
   foursquare       :
   github           : "wendashi"
-  wechat           : "assets/WechatIMG2491.jpg"
+  wechat           : "DuoEnStone"
   google_plus      :
   keybase          :
   instagram        :
