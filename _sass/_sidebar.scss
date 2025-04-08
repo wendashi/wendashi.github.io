@@ -290,7 +290,8 @@
   left: 50%;
   transform: translateX(-50%);
   opacity: 0;
-  transition: opacity 0.3s;
+  /* 显示时快速出现 */
+  transition: opacity 0.1s, visibility 0.1s; 
 
   /* 气泡箭头样式 */
   &::after {
@@ -303,4 +304,18 @@
     border-style: solid;
     border-color: #333 transparent transparent transparent;
   }
+}
+
+/* 鼠标悬停时显示气泡 */
+.wechat-link:hover .wechat-tooltip {
+  visibility: visible;
+  opacity: 1;
+  /* 显示时快速出现 */
+  transition: opacity 0.1s, visibility 0.1s; 
+}
+
+/* 鼠标移开时缓慢消失 */
+.wechat-link:not(:hover) .wechat-tooltip {
+  /* 消失时缓慢过渡，这里设置为 1s，可按需调整 */
+  transition: opacity 1s, visibility 1s; 
 }
