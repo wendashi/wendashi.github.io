@@ -33,7 +33,7 @@ $$
 
 # 📝 Publications 
 
-- `Under Review ` WordCon: Word-level Typography Control in Scene Text Rendering, Wenda Shi, Yiren Song, Zihan Rao, Dengming Zhang, Jiaming Liu, Xingxing Zou<sup>*</sup>
+- `Under Review ` [WordCon: Word-level Typography Control in Scene Text Rendering](https://wendashi.github.io/WordCon-Page/), Wenda Shi, Yiren Song, Zihan Rao, Dengming Zhang, Jiaming Liu, Xingxing Zou<sup>*</sup>
 - `ICCV 2025` [FonTS: Text Rendering with Typography and Style Controls](https://arxiv.org/abs/2412.00136), Wenda Shi, Yiren Song, Dengming Zhang, Jiaming Liu, Xingxing Zou<sup>*</sup>
 - `ACM TIST (JCR Q1)` [Generative AI in Fashion: Overview](https://github.com/wendashi/Cool-GenAI-Fashion-Papers), Wenda Shi, Waikeung Wong, Xingxing Zou<sup>*</sup>
 - `Under Review` Aligning AI Capabilities with Pattern Design: An Intelligent Design Assistant based on Language Agents, Dengming Zhang<sup>☨</sup> ,Wenda Shi<sup>☨</sup> ,Yufan Xi ,Heyang Yi, Weitao You<sup>*</sup> ,Nan Li ,Li Zhang ,Xin Yao ,Xiangdong Li, Lingyun Sun (☨Both authors contributed equally to this research.)
