@@ -37,7 +37,7 @@ $$
 - `ICCV 2025` [FonTS: Text Rendering with Typography and Style Controls](https://wendashi.github.io/FonTS-Page/), Wenda Shi, Yiren Song, Dengming Zhang, Jiaming Liu, Xingxing Zou<sup>*</sup>
 - `ACM TIST (JCR Q1)` [Generative AI in Fashion: Overview](https://github.com/wendashi/Cool-GenAI-Fashion-Papers), Wenda Shi, Waikeung Wong, Xingxing Zou<sup>*</sup>
 - `Under Review` Aligning AI Capabilities with Pattern Design: An Intelligent Design Assistant based on Language Agents, Dengming Zhang<sup>☨</sup> ,Wenda Shi<sup>☨</sup> ,Yufan Xi ,Heyang Yi, Weitao You<sup>*</sup> ,Nan Li ,Li Zhang ,Xin Yao ,Xiangdong Li, Lingyun Sun (☨Both authors contributed equally to this research.)
-- `Journal of Donghua University (English Edition)` [Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A25361158/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A176065504&crl=c), Wenda Shi, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
+- `Journal of DHU (Eng)` [Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A25361158/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A176065504&crl=c), Wenda Shi, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
 
 # 💻 Internships
 - *2023.12 - 2025.08 (now)*, Research Intern at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/), Hongkong SAR China.
