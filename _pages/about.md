@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there👋 I’m Wenda Shi, research assistant at [AiDLab (PolyU)](https://www.aidlab.hk/en/) under the supervision of [Prof. Calvin Wong](https://www.aidlab.hk/en/people-detail/prof-calvin-wong) and [Dr. Xingxing Zou](https://scholar.google.com/citations?user=UhnQA3UAAAAJ&hl=zh-CN).
 
-Recently, I am fortunate to work closely with [Yiren](https://scholar.google.com/citations?hl=zh-CN&user=L2YS0jgAAAAJ) and [Dr. Liu](https://scholar.google.com/citations?hl=zh-CN&user=SmL7oMQAAAAJ). My research interests focus on GenAI in fashion and design, including 2D/3D generation and PEFT of the generative model.
+Recently, I am fortunate to work closely with [Yiren](https://scholar.google.com/citations?hl=zh-CN&user=L2YS0jgAAAAJ) and [Dr. Liu](https://scholar.google.com/citations?hl=zh-CN&user=SmL7oMQAAAAJ). My research interests focus on GenAI in fashion and design, including post-training of 2D/3D generative models.
 
 Please feel free to reach out if you'd like to discuss, collaborate, or say hello. 😊
 
