@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there👋 I’m Wenda Shi, research assistant at [AiDLab (PolyU)](https://www.aidlab.hk/en/) under the supervision of [Prof. Calvin Wong](https://www.aidlab.hk/en/people-detail/prof-calvin-wong) and [Dr. Xingxing Zou](https://scholar.google.com/citations?user=UhnQA3UAAAAJ&hl=zh-CN).
+Hi there👋 I’m Wenda Shi, PhD student at [AiDLab (PolyU)](https://www.aidlab.hk/en/) under the supervision of [Prof. Calvin Wong](https://www.aidlab.hk/en/people-detail/prof-calvin-wong) and [Dr. Xingxing Zou](https://scholar.google.com/citations?user=UhnQA3UAAAAJ&hl=zh-CN).
 
-Recently, I am fortunate to work closely with [Yiren](https://scholar.google.com/citations?hl=zh-CN&user=L2YS0jgAAAAJ) and [Dr. Liu](https://scholar.google.com/citations?hl=zh-CN&user=SmL7oMQAAAAJ). My research interests focus on GenAI in fashion and design, including post-training of 2D/3D generative models.
+Recently, I'm fortunate to work closely with [Yiren](https://scholar.google.com/citations?hl=zh-CN&user=L2YS0jgAAAAJ) and [Dr. Liu](https://scholar.google.com/citations?hl=zh-CN&user=SmL7oMQAAAAJ). My research interests focus on GenAI in fashion and design, including post-training of 2D/3D generative models.
 
 Please feel free to reach out if you'd like to discuss, collaborate, or say hello. 😊
 
@@ -40,13 +40,13 @@ $$
 - `Journal of DHU (Eng)` [Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A25361158/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A176065504&crl=c), Wenda Shi, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
 
 # 💻 Internships
-- *2023.12 - 2025.08 (now)*, Research Intern at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/), Hongkong SAR China.
+- *2023.12 - 2025.08*, Research Intern at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/), Hongkong SAR China.
 - *2022.11 - 2023.11*, Research Intern at ZJU-BOSIDENG Joint Research Center on AI Design, Hangzhou China.
 - *2022.04 - 2023.04*, Ecosystem Manager at a Web3.0 startup [AnyWeb](https://anyweb.cc/)([First NFT Wallet in China mainland](https://mp.weixin.qq.com/s/EqcNxCkMEwkbWl8LJMqRuw)), Shanghai China.
 - *2022.02 - 2022.08*, FashionTech Researcher at an international media [WWD China](http://wwdgreaterchina.com/), Shanghai China.
 
 # 📖 Educations
-- *2025.09 - present*, PhD in Fashion AI at AiDLab, The Hong Kong Polytechnic University (in coming)
+- *2025.09 - present*, PhD in Fashion AI at AiDLab, The Hong Kong Polytechnic University
 - *2021.09 - 2024.06*, MEng in Fashion Design and Engineering at College of Fashion and Design, Donghua University
 - *2017.09 - 2021.06*, BEng in Intelligent Science and Technology at School of Artificial Intelligence, Shenyang University of Technology
 
