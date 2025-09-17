@@ -23,7 +23,7 @@ Recently, I'm fortunate to work closely with [Yiren](https://scholar.google.com/
 
 Please feel free to reach out if you'd like to discuss, collaborate, or say hello. 😊
 
-> *"Everything 'creative' is a remix of things that happened in the past, plus epsilon and times the quality of the feedback loop and the number of iterations."* — Sam Altman
+> *"everything 'creative' is a remix of things that happened in the past, plus epsilon and times the quality of the feedback loop and the number of iterations. people think they should maximize epsilon but the trick is to maximize the other two."* — Sam Altman
 > 
 > $$
 \text{Creative} = (\text{Remix of Past} + \epsilon) \times (\textbf{Feedback} + \textbf{Iteration})
