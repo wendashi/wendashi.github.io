@@ -39,21 +39,6 @@ $$
 - `Under Review` Aligning AI Capabilities with Pattern Design: An Intelligent Design Assistant based on Language Agents, Dengming Zhang<sup>☨</sup> ,Wenda Shi<sup>☨</sup> ,Yufan Xi ,Heyang Yi, Weitao You<sup>*</sup> ,Nan Li ,Li Zhang ,Xin Yao ,Xiangdong Li, Lingyun Sun (☨Both authors contributed equally to this research.)
 - `Journal of DHU (Eng)` [Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A25361158/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A176065504&crl=c), Wenda Shi, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
 
-# 💻 Internships
-- *2023.12 - 2025.08*, Research Intern at [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/), Hongkong SAR China.
-- *2022.11 - 2023.11*, Research Intern at ZJU-BOSIDENG Joint Research Center on AI Design, Hangzhou China.
-- *2022.04 - 2023.04*, Ecosystem Manager at a Web3.0 startup [AnyWeb](https://anyweb.cc/)([First NFT Wallet in China mainland](https://mp.weixin.qq.com/s/EqcNxCkMEwkbWl8LJMqRuw)), Shanghai China.
-- *2022.02 - 2022.08*, FashionTech Researcher at an international media [WWD China](http://wwdgreaterchina.com/), Shanghai China.
-
-# 📖 Educations
-- *2025.09 - present*, PhD in Fashion AI at AiDLab, The Hong Kong Polytechnic University
-- *2021.09 - 2024.06*, MEng in Fashion Design and Engineering at College of Fashion and Design, Donghua University
-- *2017.09 - 2021.06*, BEng in Intelligent Science and Technology at School of Artificial Intelligence, Shenyang University of Technology
-
-# 💬 Invited Talks
-- *2022.06*, Fashion Transformation in Metaverse: Blockchain, NFT, Web3.0 at [DigitalFUTURES](https://mp.weixin.qq.com/s/33BT_eEYA6yW73cOQr7DuA).
-- *2021.09*, Fashion-AI of Youth Academic Salon at [CIDIH](https://www.cidih.tsinghua.edu.cn/).\| [\[video\]](https://www.bilibili.com/video/BV14P4y1Y7Ff/?spm_id_from=333.999.0.0&vd_source=32f6f61e74ca115cbaca6bd6bb144662)
-
 # 🖊️ Technical Blog
 - **Chinese Blog:** [CSDN](https://blog.csdn.net/weixin_44212848?spm=1011.2124.3001.5343)
 
