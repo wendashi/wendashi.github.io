@@ -43,7 +43,14 @@ $$
 </div>
 </div>
 
-- `ACM TIST (JCR Q1)` [Generative AI in Fashion: Overview](https://github.com/wendashi/Cool-GenAI-Fashion-Papers), Wenda Shi, Waikeung Wong, Xingxing Zou<sup>*</sup>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TIST</div><img src='images/GenAI_fashion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generative AI in Fashion: Overview](https://github.com/wendashi/Cool-GenAI-Fashion-Papers), Wenda Shi, Waikeung Wong, Xingxing Zou<sup>*</sup>
+
+</div>
+</div>
+
 - `Under Review` Aligning AI Capabilities with Pattern Design: An Intelligent Design Assistant based on Language Agents, Dengming Zhang<sup>☨</sup> ,Wenda Shi<sup>☨</sup> ,Yufan Xi ,Heyang Yi, Weitao You<sup>*</sup> ,Nan Li ,Li Zhang ,Xin Yao ,Xiangdong Li, Lingyun Sun (☨Both authors contributed equally to this research.)
 - `Journal of DHU (Eng)` [Sales Forecasting of New Clothing Products Based on Hierarchical Multimodal Attention Network](https://openurl.ebsco.com/EPDB%3Agcd%3A6%3A25361158/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A176065504&crl=c), Wenda Shi, Jingsong Du<sup>*</sup>, [Dichucheng Li](https://lidcc.github.io/)
 
