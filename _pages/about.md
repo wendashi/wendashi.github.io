@@ -56,10 +56,8 @@ $$
 - **Certifications:** Database Technology (NCRE Level 3); Database Engineer (NCRE Level 4)
 
 # 🎖 Honors and Awards
-- *2021.11* First Class Scholarship (Postgraduate)
-- *2020.11* **National Scholarship (Top 1%)🥇**
-- *2019.11* First Class Scholarship
-- *2018.11* First Class Scholarship
+- **National Scholarship (Top 1%)🥇**
+
 
 # 🧐 Academic Experience
-- *2021.05*, Member of China Computer Federation Computational Art (CCF CA)
+- Reviewer of CHI 2026
