@@ -57,14 +57,13 @@ $$
 # 🖊️ Technical Blog
 - **Chinese Blog:** [CSDN](https://blog.csdn.net/weixin_44212848?spm=1011.2124.3001.5343)
 
-# 💪 Skills List
-- **Programming language and tools:** Python/ PyTorch / Diffusers / ONNX / TensorRT / Docker
-- **Languages:** Chinese (Native) / English (TOEFL)
-- **Certifications:** Database Technology (NCRE Level 3); Database Engineer (NCRE Level 4)
+# 🧐 Academic Experience
+- Reviewer of CHI 2026
 
 # 🎖 Honors and Awards
 - National Scholarship (Top 1%)
 
-
-# 🧐 Academic Experience
-- Reviewer of CHI 2026
+# 💪 Skills List
+- **Programming language and tools:** Python/ PyTorch / Diffusers / ONNX / TensorRT / Docker
+- **Languages:** Chinese (Native) / English (TOEFL)
+- **Certifications:** Database Technology (NCRE Level 3); Database Engineer (NCRE Level 4)
