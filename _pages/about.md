@@ -59,11 +59,11 @@ $$
 
 # 💪 Skills List
 - **Programming language and tools:** Python/ PyTorch / Diffusers / ONNX / TensorRT / Docker
-- **Languages:** Chinese (Native) / English (TOEFL-90)
+- **Languages:** Chinese (Native) / English (TOEFL)
 - **Certifications:** Database Technology (NCRE Level 3); Database Engineer (NCRE Level 4)
 
 # 🎖 Honors and Awards
-- **National Scholarship (Top 1%)🥇**
+- National Scholarship (Top 1%)
 
 
 # 🧐 Academic Experience
