@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there👋 I'm Wenda Shi, PhD student at [AiDLab (PolyU)](https://www.aidlab.hk/en/) under the supervision of [Prof. Calvin Wong](https://www.aidlab.hk/en/people-detail/prof-calvin-wong) and [Dr. [...]
+Hi there👋 I'm Wenda Shi, PhD student at [AiDLab (PolyU)](https://www.aidlab.hk/en/) under the supervision of [Prof. Calvin Wong](https://www.aidlab.hk/en/people-detail/prof-calvin-wong) and [Dr. Xingxing Zou](https://scholar.google.com/citations?hl=en&user=UhnQA3UAAAAJ)
 
-Recently, I'm fortunate to work closely with [Yiren](https://scholar.google.com/citations?hl=zh-CN&user=L2YS0jgAAAAJ) and [Dr. Liu](https://scholar.google.com/citations?hl=zh-CN&user=SmL7oMQAAAAJ). My[...]
+Recently, I'm fortunate to work closely with [Yiren](https://scholar.google.com/citations?hl=zh-CN&user=L2YS0jgAAAAJ) and [Dr. Liu](https://scholar.google.com/citations?hl=zh-CN&user=SmL7oMQAAAAJ). My research interset is about GenAI in fashion and design, inlcuding post-training of foundation 2D/3D generative models and visual agents.
 
 Please feel free to reach out if you'd like to discuss, collaborate, or say hello. 😊
 
-> *"everything 'creative' is a remix of things that happened in the past, plus epsilon and times the quality of the feedback loop and the number of iterations. people think they should maximize epsilo[...]
+> *"everything 'creative' is a remix of things that happened in the past, plus epsilon and times the quality of the feedback loop and the number of iterations. people think they should maximize epsilon but the trick is to maximize the other two. [by Sam Altman](https://x.com/sama/status/1682493142845763585)
 > 
 > $$
 \text{Creative} = (\text{Remix of Past} + \epsilon) \times (\textbf{Feedback} + \textbf{Iteration})
