@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there👋 I'm Wenda Shi, PhD student at [AiDLab (PolyU)](https://www.aidlab.hk/en/) advised by [Prof. Calvin Wong](https://www.aidlab.hk/en/people-detail/prof-calvin-wong) and [Dr. Xingxing Zou](https://scholar.google.com/citations?hl=en&user=UhnQA3UAAAAJ)
 
-My research interests center on GenAI for fashion and design, spanning post-training of foundation 2D/3D generative models and visual agents. My lifelong aspiration is to build a lasting, influential, and self-sustaining fashion brand with agents in a post-AGI era. 🎯
+My research interests center on GenAI for fashion and design, spanning post-training of foundation 2D/3D generative models and visual agents. My lifelong aspiration is to build a timeless, vibrant, and self-sustaining streetwear brand through AI agents in a post-AGI era. 🎯
 
 Please feel free to reach out if you'd like to discuss, collaborate, or just say hello. 😊
 
